@@ -1,3 +1,5 @@
+//Muramasa Coin Ropsten Testnet address: 0x95f01fce8e14bfacfba8e1d989cad1d92da8354e
+
 pragma solidity ^0.4.19;
 
 interface tokenRecipient { function receiveApproval(address _from, uint256 _value, address _token, bytes _extraData) external; }
